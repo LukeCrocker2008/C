@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>star-wars-millenium-falcon.png</file>
+        <file>images (1).jpeg</file>
+        <file>c10015.png</file>
+        <file>1346943991.png</file>
+    </qresource>
+</RCC>
